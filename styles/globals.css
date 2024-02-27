@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&family=Varela+Round&display=swap');
+:root {
+  --heading:#72a107;
+  --primary: :rgb(93, 92, 92);
+  --secondary: #f2f0f0;
+  --dark: #181818f6;
+ 
+}
+body {
+  background: white;
+  font-family: "Inter";
+  text-decoration: none;
+}
+
+
+
+.test{
+  align-items: center;
+  justify-items: center;
+  cursor: pointer;
+  font-weight: 100;
+  box-shadow: 0 4px 20px rgba(240, 239, 239, 0.3);
+  margin-top:20px;
+  align-content: center;
+ text-align: center;
+
+}
